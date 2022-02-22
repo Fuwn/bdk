@@ -1,0 +1,3 @@
+[submodule "submodules/Lockpick_RCM"]
+	path = submodules/Lockpick_RCM
+	url = https://github.com/shchmue/Lockpick_RCM
